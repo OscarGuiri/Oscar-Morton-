@@ -1,5 +1,7 @@
-- Block and Inline
+# Block and Inline
+
 ```HTML
+
 <!DOCTYPE html>
 <html>
 <head>
