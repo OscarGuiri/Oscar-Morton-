@@ -38,3 +38,21 @@ p>¡Hola <span style="color:#FF0000">amigo lector</span>!</p>
 
 ```
 ## 3. Crea una lista sin ordenar con 5 ingredientes de una receta de cocina
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<h1>Como hacer cuscus</h1>
+<ul>
+	<li>1.Habre la lata de cuscus</li>
+	<li>2.Ponlo en el plato</li>
+	<li>3. Ya esta, enorabuena</li>
+
+</ul>
+
+</body>
+</html>
+```
