@@ -47,9 +47,9 @@ p>¡Hola <span style="color:#FF0000">amigo lector</span>!</p>
 <body>
 	<h1>Como hacer cuscus</h1>
 <ul>
-	<li>1.Habre la lata de cuscus</li>
+	<li>1.Abre la lata de cuscus</li>
 	<li>2.Ponlo en el plato</li>
-	<li>3. Ya esta, enorabuena</li>
+	<li>3. Ya está, enorabuena</li>
 
 </ul>
 
