@@ -1,6 +1,6 @@
-#HTML y CSS
+## HTML y CSS
 ## Estructura mínima de una web
-```HTMl
+```html
 <!DOCTYPE html>
 <html>
 <head>
