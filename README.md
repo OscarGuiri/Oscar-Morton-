@@ -1,5 +1,5 @@
 ## HTML y CSS
-## Estructura mínima de una web
+## 1. Estructura mínima de una web
 ```html
 <!DOCTYPE html>
 <html>
@@ -12,7 +12,7 @@
 </html>
 
 ```
-## 1.Explica las 3 formas de usar CSS en HTML
+## 2.Explica las 3 formas de usar CSS en HTML
 #### Hay de forma externo, la cual en la cabecera del HTML, el bloque <head> </head>, incluimos una relación al archivo CSS
 #### Ej:
 ```html
