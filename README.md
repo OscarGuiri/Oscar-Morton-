@@ -12,3 +12,8 @@
 </html>
 
 ```
+## explica las 3 formas de usar CSS en HTML
+#### Hay de forma externo:
+```html
+<link rel="stylesheet" type="text/css" href="index.css" />
+```
